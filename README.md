@@ -20,4 +20,8 @@ Both the searchString and library are trimed for any whitespaces and changed to 
 
 Libraries is passed as props from the parent index.js to the child Search.js as items.
 
+## Future thoughts
+
+I will update the repo using the wikipedia API. But first, just learning the ropes of react.
+
 MaterializeCSS is used because it's awesome!!!
